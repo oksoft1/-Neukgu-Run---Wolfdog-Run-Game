@@ -11,4 +11,4 @@ Tap 'Play' to start your journey now!
 
 Privacy Policy: https://github.com/oksoft1/resource-box/blob/main/PRIVACY.md
 
-Telegram: t.me/wolfdogrunbot
+Telegram: https://t.me/wolfdogrunbot
